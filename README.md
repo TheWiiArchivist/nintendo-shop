@@ -1,5 +1,5 @@
 # chrisplayzyt.github.io/nintendo-shop
-A revival/archive of http://www.freewebs.com/nintendo-shop/ a website made by WiiRevolution1<br>
+A revival/archive of http://www.freewebs.com/nintendo-shop/ a (now dead) website made by WiiRevolution1<br>
 <br>
 based off: 
 https://web.archive.org/web/20130703055059/http://nintendo-shop.webs.com/
@@ -13,7 +13,7 @@ https://web.archive.org/web/20080217231430/http://www.freewebs.com/nintendo-shop
 https://web.archive.org/web/20080217231439/http://www.freewebs.com/nintendo-shop/tv.htm
 <br>
 <br><br>
-"Wii Shop Channel on PC" by WiiRevolution1, 4,496 views  Dec 28, 2007
+"Wii Shop Channel on PC" by WiiRevolution1, 4,496 views (as of 2/17/25)  Dec 28, 2007
 <br>
 https://www.youtube.com/watch?v=Q3OQBd247pc
 <BR>OR<BR>
