@@ -1,4 +1,4 @@
-# chrisplayzyt.github.io/nintendoshop
+# chrisplayzyt.github.io/nintendo-shop
 A revival/archive of http://www.freewebs.com/nintendo-shop/ a website made by WiiRevolution1<br>
 <br>
 based off: 
