@@ -1,0 +1,56 @@
+@import url("/nintendo-shop/images.freewebs.com/Members/Generationz/Standard/Smooth/Smooth.css");
+
+/* Color scheme */
+#fw-title {
+	background:url('/web/20081024075217im_/http://images.freewebs.com/Members/Generationz/Standard/Smooth/Blue/banner.png') no-repeat
+}
+
+#fw-smalltitle {
+	background:url('/web/20081024075217im_/http://images.freewebs.com/Members/Generationz/Standard/Smooth/Blue/smalltitle-bg.png');
+	color:#fff
+}
+
+#fw-mainnavwrap {
+	background:url('/web/20081024075217im_/http://images.freewebs.com/Members/Generationz/Standard/Smooth/Blue/right.gif') no-repeat 75px bottom;
+}
+
+#fw-mainnavwrap li {
+	background:url('/web/20081024075217im_/http://images.freewebs.com/Members/Generationz/Standard/Smooth/Blue/line.gif') no-repeat bottom right
+}
+
+.fw-title {
+	background:#d0e8fb
+}
+
+.fw-tertiary {
+    background-color: #D0E8FB; 
+    border-color: #D0E8FB;
+}
+
+.fw-footertext {
+	overflow: auto;
+	background:#1888e0
+}
+
+
+
+/*
+     FILE ARCHIVED ON 07:52:17 Oct 24, 2008 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 20:55:05 Feb 17, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.905
+  exclusion.robots: 0.035
+  exclusion.robots.policy: 0.015
+  esindex: 0.016
+  cdx.remote: 64.723
+  LoadShardBlock: 601.805 (3)
+  PetaboxLoader3.datanode: 668.318 (4)
+  load_resource: 299.739
+  PetaboxLoader3.resolve: 214.092
+*/
