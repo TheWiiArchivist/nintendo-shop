@@ -2,7 +2,7 @@
 A revival/archive of http://www.freewebs.com/nintendo-shop/ a (now dead) website made by WiiRevolution1<br>
 <br>
 based off: 
-https://web.archive.org/web/20130703055059/http://nintendo-shop.webs.com/
+https://web.archive.org/web/20080101141120/http://www.freewebs.com/nintendo-shop/
 <br>
 https://web.archive.org/web/20080103010547/http://www.freewebs.com/nintendo-shop/menu.htm
 <br>
