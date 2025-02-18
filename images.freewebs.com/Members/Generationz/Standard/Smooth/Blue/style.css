@@ -2,20 +2,20 @@
 
 /* Color scheme */
 #fw-title {
-	background:url('/web/20081024075217im_/http://images.freewebs.com/Members/Generationz/Standard/Smooth/Blue/banner.png') no-repeat
+	background:url('/nintendo-shop/images.freewebs.com/Members/Generationz/Standard/Smooth/Blue/banner.png') no-repeat
 }
 
 #fw-smalltitle {
-	background:url('/web/20081024075217im_/http://images.freewebs.com/Members/Generationz/Standard/Smooth/Blue/smalltitle-bg.png');
+	background:url('/nintendo-shop/images.freewebs.com/Members/Generationz/Standard/Smooth/Blue/smalltitle-bg.png');
 	color:#fff
 }
 
 #fw-mainnavwrap {
-	background:url('/web/20081024075217im_/http://images.freewebs.com/Members/Generationz/Standard/Smooth/Blue/right.gif') no-repeat 75px bottom;
+	background:url('/nintendo-shop/http://images.freewebs.com/Members/Generationz/Standard/Smooth/Blue/right.gif') no-repeat 75px bottom;
 }
 
 #fw-mainnavwrap li {
-	background:url('/web/20081024075217im_/http://images.freewebs.com/Members/Generationz/Standard/Smooth/Blue/line.gif') no-repeat bottom right
+	background:url('/nintendo-shop/http://images.freewebs.com/Members/Generationz/Standard/Smooth/Blue/line.gif') no-repeat bottom right
 }
 
 .fw-title {
