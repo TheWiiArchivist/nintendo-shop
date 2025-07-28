@@ -1,5 +1,5 @@
 # thewiiarchivist.github.io/nintendo-shop
-A archive of http://www.freewebs.com/nintendo-shop/ a (now dead) website made by WiiRevolution1<br>
+A archive of http://www.freewebs.com/nintendo-shop/ a (now dead) website made by WiiRevolution1 (archived for fun ig)<br>
 <br>
 based off: 
 https://web.archive.org/web/20080101141120/http://www.freewebs.com/nintendo-shop/
